@@ -3,7 +3,7 @@
 To use IBM Cloud Private as a object storage provider you can use Minio.
 
 Steps
-1. add helm (https://kubernetes-charts.storage.googleapis.com/)[https://kubernetes-charts.storage.googleapis.com/] into ICP using menu Manage/Helm Repositories
+1. add helm [https://kubernetes-charts.storage.googleapis.com/](https://kubernetes-charts.storage.googleapis.com/) into ICP using menu Manage/Helm Repositories
 2. from the Catalog, search for 'Minio'
 3. Click on the Minio Helm chart and 'Configure'
 4. Specify Release name
